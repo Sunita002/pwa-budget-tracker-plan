@@ -33,7 +33,7 @@ THEN the deposits or expenses added while they were offline are added to their t
 
 
 ## Installation Instructions
-This application is designed to run locally using [Robo 3t](https://www.robomongo.org) or another MongoDB management tool. 
+This application uses Mongodb Management tools
 
 
 Run `npm i` to install [npm](https://www.npmjs.com/) dependencies. 
