@@ -16,3 +16,9 @@ A Progressive Web Application (PWA) demonstrating the use of the Chrome Browser 
 
 ## Installation Instructions
 This application is designed to run locally using [Robo 3t](https://www.robomongo.org) or another MongoDB management tool. 
+
+
+Run `npm i` to install [npm](https://www.npmjs.com/) dependencies. 
+
+## Usage
+![Demonstration](https://user-images.githubusercontent.com/87583026/149687511-00fd3518-3007-4549-98ec-23374c50f92f.gif)
