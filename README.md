@@ -12,7 +12,7 @@ A Progressive Web Application (PWA) demonstrating the use of the Chrome Browser 
 * [Routes](/routes.md)
 * [Tests](#tests)
 * [Questions](#questions)
-* [License](#license-info)
+
 
 ## Installation Instructions
 This application is designed to run locally using [Robo 3t](https://www.robomongo.org) or another MongoDB management tool. 
@@ -31,7 +31,3 @@ Run `npm i` to install [npm](https://www.npmjs.com/) dependencies.
 ## Questions
 You can reach the author, Sunita Persad,  via [github](http://github.com/Sunita002)
 
-## License
-Copyright 2022 - present Sunita Persad.
-This project is licensed under the terms of the MIT license. 
-More information is available at [opensource.org/licenses](https://opensource.org/licenses/MIT)
